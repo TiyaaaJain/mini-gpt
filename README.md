@@ -23,3 +23,5 @@ git push -u origin main
 ```
 
 If you'd like, provide the remote URL and I can run the commit and push commands for you.
+
+i would like to thank https://github.com/karpathy for inspiring me to build this
